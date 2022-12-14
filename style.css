@@ -1,0 +1,40 @@
+.label{
+    text-align: center;
+    font-size:1em;
+
+
+}
+
+.row{
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+}
+.container{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    align-items: center;
+
+
+}
+
+.card{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    height: 50%;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 12px;
+
+}
+.button{
+    float: right;
+    padding: 10px;
+    /*display:contents;
+    */
+    margin:auto;
+}
+
+.bt{
+    padding-bottom: 10px;
+}
