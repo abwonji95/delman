@@ -30,11 +30,13 @@
 .button{
     float: right;
     padding: 10px;
-    /*display:contents;
-    */
     margin:auto;
 }
 
 .bt{
     padding-bottom: 10px;
+}
+
+.col{
+    padding: 20px;
 }
